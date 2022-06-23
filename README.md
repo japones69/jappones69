@@ -1,3 +1,3 @@
 <i><b><p>As mina da quebrada ficam tudo me zoando
-Meus zóio é de japonês, mas a pegada é de africano</p></b></i> 
+Meus zóio é de japonês, mas a pegada é de africano</p></b></i>U+1F603
 
