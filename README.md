@@ -7,11 +7,3 @@ body {
 }
 </style>
 <body>
-
-<span style='font-size:100px;'>&#12951;</span>
-<p>I will display &#12951;</p>
-<p>I will display &#x3297;</p>
-
-</body>
-</html>
-
